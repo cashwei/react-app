@@ -1,4 +1,9 @@
-import { createStore,applyMiddleware, compose } from 'redux'
-import reducer from './reducer'
-import thunk from 'redux-thunk'
+import { combineReducers } from 'redux'
 
+import { reducer as headerReducer } from '../components/header/store'
+
+const reducer = combineReducers({
+    header: headerReducer
+})
+
+export default reducer
