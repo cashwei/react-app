@@ -4,3 +4,6 @@
 
 import base from "./base";
 
+const article = {}
+
+export default article;
