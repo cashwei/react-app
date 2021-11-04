@@ -20,3 +20,6 @@ export const format = (n) => {
         }
     }
 }
+
+// 数组中获取随机数
+export const sample = arr => arr[Math.floor(Math.random() * arr.length)];
