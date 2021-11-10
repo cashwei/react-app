@@ -65,3 +65,12 @@ export const digitUppercase = (n) => {
         .replace(/(零.)+/g, '零')
         .replace(/^整$/, '零元整');
 };
+
+// 存储loalStorage
+export const loalStorageSet = (key, value) => {
+    if (!key) return;
+    if (typeof value !== 'string') {
+        value = JSON.stringify(value);
+    }
+    window.localStorage.setItem(key, value);
+};
