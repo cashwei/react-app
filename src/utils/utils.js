@@ -23,3 +23,14 @@ export const format = (n) => {
 
 // 数组中获取随机数
 export const sample = arr => arr[Math.floor(Math.random() * arr.length)];
+
+// 生成随机字符串
+export const randomString = (len) => {
+    let chars = 'ABCDEFGHJKMNPQRSTWXYZabcdefhijkmnprstwxyz123456789';
+    let strLen = chars.length;
+    let randomStr = '';
+    for (let i = 0; i < len; i++) {
+        randomStr += chars.charAt(Math.floor(Math.random() * strLen));
+    }
+    return randomStr;
+};
