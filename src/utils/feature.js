@@ -7,3 +7,6 @@ function fun1(params) {
 function fun2(params) {
     alert(params)
 }
+function fun3(params) {
+    alert(params);
+}
