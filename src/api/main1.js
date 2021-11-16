@@ -4,6 +4,6 @@ function fun1(params) {
 function fun2(params) {
     console.log(params);
 }
-function fun3(params) {
+function fun6(params) {
     console.log(params);
 }
