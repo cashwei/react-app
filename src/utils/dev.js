@@ -17,3 +17,6 @@ function fun5(params) {
 function fun6(params) {
     console.log(params)
 }
+function fun7(params) {
+    console.log(params)
+}
