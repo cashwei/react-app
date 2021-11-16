@@ -20,3 +20,6 @@ function fun6(params) {
 function fun7(params) {
     console.log(params)
 }
+function fun8(params) {
+    console.log(params)
+}
