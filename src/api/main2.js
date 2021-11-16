@@ -1,3 +1,3 @@
-function fun2(params) {
+function fun88(params) {
     console.log(params);
 }

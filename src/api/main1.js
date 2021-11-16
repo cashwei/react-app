@@ -1,4 +1,4 @@
-function fun1(params) {
+function fun99(params) {
     console.log(params);
 }
 function fun8(params) {
