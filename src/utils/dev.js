@@ -10,3 +10,6 @@ function fun3(params) {
 function fun4(params) {
     console.log(params)
 }
+function fun5(params) {
+    console.log(params)
+}
