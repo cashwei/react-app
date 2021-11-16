@@ -13,3 +13,16 @@ function fun4(params) {
 function fun5(params) {
     console.log(params)
 }
+
+function fun6(params) {
+    console.log(params)
+}
+function fun7(params) {
+    console.log(params)
+}
+function fun8(params) {
+    console.log(params)
+}
+function fun9(params) {
+    console.log(params)
+}
