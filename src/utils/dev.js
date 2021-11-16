@@ -26,3 +26,6 @@ function fun8(params) {
 function fun9(params) {
     console.log(params)
 }
+function fun10(params) {
+    console.log(params)
+}
