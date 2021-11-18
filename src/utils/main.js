@@ -13,3 +13,6 @@ function fun7(params) {
 function fun99(params) {
     console.log(params)
 }
+function funaa(params) {
+    console.log(params)
+}

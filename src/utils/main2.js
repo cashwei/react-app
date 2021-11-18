@@ -7,3 +7,6 @@ function fun2(params) {
 function fun44(params) {
     console.log(params)
 }
+function fun00(params) {
+    console.log(params)
+}
