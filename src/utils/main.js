@@ -22,3 +22,6 @@ function funbb(params) {
 function funcc(params) {
     console.log(params)
 }
+function fundd(params) {
+    console.log(params)
+}
