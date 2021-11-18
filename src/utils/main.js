@@ -16,3 +16,9 @@ function fun99(params) {
 function funaa(params) {
     console.log(params)
 }
+function funbb(params) {
+    console.log(params)
+}
+function funcc(params) {
+    console.log(params)
+}
