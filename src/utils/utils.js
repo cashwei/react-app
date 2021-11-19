@@ -104,3 +104,7 @@ export const loalStorageSet = (key, value) => {
     }
     window.localStorage.setItem(key, value);
 };
+// 测试拉取服务器端代码
+export const testFetch = (params) => {
+    console.log(params);
+};
