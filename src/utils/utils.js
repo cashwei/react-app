@@ -118,3 +118,7 @@ export const testFetch33 = (params) => {
 export const testFetch22 = (params) => {
     console.log(params);
 };
+// 测试拉取服务器端代码44
+export const testFetch44 = (params) => {
+    console.log(params);
+};
