@@ -108,3 +108,9 @@ export const loalStorageSet = (key, value) => {
 export const testFetch = (params) => {
     console.log(params);
 };
+
+// 测试拉取服务器端代码33
+export const testFetch33 = (params) => {
+
+    console.log(params);
+};
