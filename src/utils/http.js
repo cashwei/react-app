@@ -21,3 +21,7 @@ const toLogin = () => {}
 const tip2 = msg => {
 
 }
+/** 
+ * main分支测试fetch获取远端仓库代码
+ */
+const fetchTest = () => {}
