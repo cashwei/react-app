@@ -25,3 +25,7 @@ const tip2 = msg => {
  * main分支测试fetch获取远端仓库代码
  */
 const fetchTest = () => {}
+/** 
+ * main分支测试pull拉取远端仓库代码
+ */
+const pullTest = () => {}
