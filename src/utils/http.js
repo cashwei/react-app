@@ -21,3 +21,7 @@ const toLogin = () => {}
  * dev分支测试fetch获取远端仓库代码
  */
 const fetchTest = () => {}
+/** 
+ * dev分支测试pull拉取远端仓库代码
+ */
+const pullTest = () => {}
